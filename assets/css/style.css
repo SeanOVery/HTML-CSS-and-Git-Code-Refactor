@@ -23,6 +23,7 @@ body {
 .header h1 .seo {
     color: #d9dcd6;
 }
+/* Changed div in header class listings to nav after changing div to nav in html*/
 
 .header nav {
     padding-top: 15px;
@@ -69,6 +70,8 @@ p {
     margin-left: 25px;
 }
 
+/*Organized main element into content class and subclasses. Removed classes which were effectively IDs and converted them into properly used class selectors.*/
+
 .content {
     width: 75%;
     display: inline-block;
@@ -92,6 +95,8 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+
+/*organized aside element into benefits and subclasses. Removed classes which were effectively IDs and converted them into properly used class selectors.*/
 
 .benefits {
     margin-right: 20px;
