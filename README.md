@@ -1,10 +1,10 @@
 # Horiseon SEO Refactor
 
 ## Summary
-    
-    The primary goal of this project is to refactor Horiseon's HTML to be more friendly to accesibility software.
 
-    Alongside that primary goal, some cleanup work was done on the code in general. Within the CSS primarily but also the HTML.
+The primary goal of this project is torefactor Horiseon's HTML to be morefriendly to accesibility software.
+
+Alongside that primary goal, somecleanup work was done on the code ingeneral. Within the CSS primarily butalso the HTML.
 
 ------------
 
