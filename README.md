@@ -2,16 +2,16 @@
 
 ## Summary
 
-The primary goal of this project is torefactor Horiseon's HTML to be morefriendly to accesibility software.
+The primary goal of this project is to refactor Horiseon's HTML to be more friendly to accesibility software.
 
-Alongside that primary goal, somecleanup work was done on the code ingeneral. Within the CSS primarily butalso the HTML.
+Alongside that primary goal, some cleanup work was done on the code in general. Within the CSS primarily buta lso the HTML.
 
 ------------
 
 ## Details
 
-* HTML tags converted from <div> to semantic elements for accesibility.
-* alt attributes added to images and icons in HTML for accesibility.
+* HTML tags converted from `<div>` to semantic elements for accesibility.
+* Alt attributes added to images and icons in HTML for accesibility.
 * CSS also updated to properly affect the new semantic tags.
 * Unnecessary CSS selectors removed and/or simplified.
 
