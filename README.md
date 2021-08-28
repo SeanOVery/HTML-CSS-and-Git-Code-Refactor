@@ -4,7 +4,7 @@
 
 The primary goal of this project is to refactor Horiseon's HTML to be more friendly to accesibility software.
 
-Alongside that primary goal, some cleanup work was done on the code in general. Within the CSS primarily buta lso the HTML.
+Alongside that primary goal, some cleanup work was done on the code in general. Within the CSS primarily but also the HTML.
 
 ------------
 
